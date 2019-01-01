@@ -1394,7 +1394,7 @@ if /i %funfact_number% GTR 30 goto random_funfact
 if %funfact_number%==1 set funfact=Did you know the wii was the best selling game-console of 2006?
 if %funfact_number%==2 set funfact=Did you know KcrPL makes these amazing pachers and the updates for the patcher?
 if %funfact_number%==3 set funfact=RiiConnect24 originally started out as "CustomConnect24"!
-if %funfact_number%==4 set funfact=Did you the RiiConnect24 logo was made by NeoRame, the same person who made the Wiimmfi logo?
+if %funfact_number%==4 set funfact=Did you know the RiiConnect24 logo was made by NeoRame, the same person who made the Wiimmfi logo?
 if %funfact_number%==5 set funfact=The Wii was nicknamed “Revolution” during its development stage.
 if %funfact_number%==6 set funfact=Did you know the letters in the Wii model number RVL stand for the Wii's codename, Revolution?
 if %funfact_number%==7 set funfact=The music used in many of the Wii's channels (including the Wii Shop, Mii, Check Mii Out, and Forecast Channel) was composed by Kazumi Totaka.
